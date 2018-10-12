@@ -1,4 +1,4 @@
-# Course 3: Convolutional Neural Network
+# Course 4: Convolutional Neural Network
 
 1. Week 1
     - [Convolution model - Step by Step](Convolution%20model%20-%20Step%20by%20Step.ipynb)
@@ -15,3 +15,5 @@
         - /weights: <https://github.com/amenglong/face_recognition_cnn/tree/master/weights>
     - [Art Generation with Neural Style Transfer](Art%20Generation%20with%20Neural%20Style%20Transfer.ipynb)
         - pretrained model: <http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-19.mat>
+
+> Course 3 Structured Machine Learning does not have practice assignments.
