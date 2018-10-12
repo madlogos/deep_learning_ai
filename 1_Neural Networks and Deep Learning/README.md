@@ -1,3 +1,5 @@
+# Course 1: Neural Networks and Deep Learning
+
 1. Week 2
     - [Logistic Regression with a Neural Network mindset](Logistic%20Regression%20with%20a%20Neural%20Network%20mindset.ipynb)
 2. Week 3
