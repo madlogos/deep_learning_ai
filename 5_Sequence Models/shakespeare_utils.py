@@ -28,7 +28,7 @@ def build_data(text, Tx = 40, stride = 3):
     X = []
     Y = []
 
-    ### START CODE HERE ### (¡Ö 3 lines)
+    ### START CODE HERE ### (Â¡Ã– 3 lines)
     for i in range(0, len(text) - Tx, stride):
         X.append(text[i: i + Tx])
         Y.append(text[i + Tx])
