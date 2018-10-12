@@ -1,3 +1,5 @@
+# Course 2: Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization
+
 1. Week 1
     - [Initialization](Initialization.ipynb)
     - [Gradient Checking](Gradient%20Checking.ipynb)
