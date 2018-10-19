@@ -1,4 +1,7 @@
+# -*- coding: utf-8 -*-
+
 import csv
+import codecs
 import numpy as np
 import emoji
 import pandas as pd
@@ -6,7 +9,7 @@ import matplotlib.pyplot as plt
 from sklearn.metrics import confusion_matrix
 
 def read_glove_vecs(glove_file):
-    with open(glove_file, 'r') as f:
+    with open(glove_file, 'r', encoding='utf-8') as f:
         words = set()
         word_to_vec_map = {}
         for line in f:

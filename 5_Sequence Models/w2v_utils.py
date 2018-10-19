@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+
+import codecs
 from keras.models import Model
 from keras.layers import Input, Dense, Reshape, merge
 from keras.layers.embeddings import Embedding
@@ -99,7 +102,7 @@ class SimilarityCallback:
     
 
 def read_glove_vecs(glove_file):
-    with open(glove_file, 'r') as f:
+    with open(glove_file, 'r', encoding='utf-8') as f:
         words = set()
         word_to_vec_map = {}
         
