@@ -14,4 +14,9 @@
 3. Week 3
    - [Neural machine translation with attention](Neural%20machine%20translation%20with%20attention.ipynb)
    - [Trigger word detection](Trigger%20word%20detection.ipynb)
+       - [/XY_train](https://github.com/stormstone/deeplearning.ai/tree/master/02-%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A/05-%E7%AC%AC%E4%BA%94%E8%AF%BE%20%E5%BA%8F%E5%88%97%E6%A8%A1%E5%9E%8B/03-%E7%AC%AC%E4%BA%94%E8%AF%BE%E7%AC%AC%E4%B8%89%E5%91%A8%E4%BD%9C%E4%B8%9A/Trigger%20word%20detection/XY_train) 
+       - [/XY_dev](https://github.com/stormstone/deeplearning.ai/tree/master/02-%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A/05-%E7%AC%AC%E4%BA%94%E8%AF%BE%20%E5%BA%8F%E5%88%97%E6%A8%A1%E5%9E%8B/03-%E7%AC%AC%E4%BA%94%E8%AF%BE%E7%AC%AC%E4%B8%89%E5%91%A8%E4%BD%9C%E4%B8%9A/Trigger%20word%20detection/XY_dev)
+       - [/audio_examples](https://github.com/stormstone/deeplearning.ai/tree/master/02-%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A/05-%E7%AC%AC%E4%BA%94%E8%AF%BE%20%E5%BA%8F%E5%88%97%E6%A8%A1%E5%9E%8B/03-%E7%AC%AC%E4%BA%94%E8%AF%BE%E7%AC%AC%E4%B8%89%E5%91%A8%E4%BD%9C%E4%B8%9A/Trigger%20word%20detection/audio_examples)
+       - [/raw_data](https://github.com/stormstone/deeplearning.ai/tree/master/02-%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A/05-%E7%AC%AC%E4%BA%94%E8%AF%BE%20%E5%BA%8F%E5%88%97%E6%A8%A1%E5%9E%8B/03-%E7%AC%AC%E4%BA%94%E8%AF%BE%E7%AC%AC%E4%B8%89%E5%91%A8%E4%BD%9C%E4%B8%9A/Trigger%20word%20detection/raw_data)
+       - [/models/tr_model.h5](https://github.com/stormstone/deeplearning.ai/blob/master/02-%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A/05-%E7%AC%AC%E4%BA%94%E8%AF%BE%20%E5%BA%8F%E5%88%97%E6%A8%A1%E5%9E%8B/03-%E7%AC%AC%E4%BA%94%E8%AF%BE%E7%AC%AC%E4%B8%89%E5%91%A8%E4%BD%9C%E4%B8%9A/Trigger%20word%20detection/models/tr_model.h5)
 
